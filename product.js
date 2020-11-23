@@ -1,4 +1,4 @@
-const product = [
+var product = [
     {
         id: 01,
         name: "indomie rasa rendang",

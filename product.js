@@ -1,4 +1,4 @@
-const product = [
+let product = [
     {
         id: 01,
         name: "indomie rasa rendang",
